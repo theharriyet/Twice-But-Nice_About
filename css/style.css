@@ -203,7 +203,7 @@ p {
 /* statistics */
 .statistics{
     width: 100%;
-    height: 2400px;
+    height: 2000px;
     background-color: #f3eeea;
    
 }
@@ -240,26 +240,31 @@ p {
 }
 
 .urges{
-    margin-top: 250px;
-    background-color: #AD7278;
-    border-radius: 10px;
-    width: 800px;
-    margin-left: 170px;
+    background-color: #f3eeea;
+    justify-content: center;  
 }
 
-.urges .title{
-    font-size: 20px;
-    line-height: 40px;
-    padding: 20px;
-    color: #FDFAF8;
+.urges .textbox{
     font-family: 'Noto Serif TC', serif;
-
-}
-
-.social{
-    margin-left: 440px;
+    font-size: 20px;
+    color: #f3eeea;
+    letter-spacing: 2px;
+    padding: 10px;
+    background-color: #AD7278;
+    width: 700px;
+    text-align: center;
+    border-radius: 10px;
     align-items: center;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+.media {
+    margin-top: 25px;
+    padding-bottom: 40px;
+    justify-content: center;
+}
+
 
 .fa {
     padding: 20px;
@@ -267,8 +272,9 @@ p {
     width: 80px;
     text-align: center;
     text-decoration: none;
-    margin: 5px 3px;
     border-radius: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
   
 .fa:hover {
@@ -289,9 +295,9 @@ p {
 .fa-instagram {
     background: #AD7278;
     color: white;
-  }
+}
 
-  .footer {
+.footer {
     padding-top: 50px;
     right: 0;
     bottom: 0;
@@ -301,6 +307,5 @@ p {
     text-align: center;
     color: #724e52;
     font-family: 'Abril Fatface', cursive;
-
-  }
+}
 
