@@ -36,16 +36,18 @@ body{
 .topnav {
     background-color: #d4bfba;
     overflow: hidden;
-    padding-left: 270px;
+    padding-left: 445px;
+
   }
    
   /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
     color: #724e52;
-    padding-top: 14px;
-    padding-bottom: 16px;
-    padding-left: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
     text-decoration: none;
     font-size: 17px;
     font-family: 'Noto Serif TC', serif;
