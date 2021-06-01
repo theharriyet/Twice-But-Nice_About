@@ -12,7 +12,7 @@ html{
 
 body{
 	margin: 0px;
-	font-family: 'Noto Serif TC', serif;
+	font-family: 'Microsoft JhengHei';
     
 }
 
@@ -50,7 +50,7 @@ body{
     padding-right: 30px;
     text-decoration: none;
     font-size: 17px;
-    font-family: 'Noto Serif TC', serif;
+    font-family: 'Microsoft JhengHei';
   }
    
    
@@ -86,7 +86,7 @@ body{
 
 .describe span{
     font-weight: bold;
-    font-family: 'Noto Serif TC', serif;
+    font-family: 'Microsoft JhengHei';
     font-size: 40px;
     letter-spacing: 2px;
     color: #A99479;
@@ -94,7 +94,7 @@ body{
 }
 
 .describe p{
-    font-family: 'Noto Serif TC', serif;
+    font-family: 'Microsoft JhengHei';
     font-size: 16px;
     margin: 0;
     white-space: pre-line;
@@ -114,7 +114,7 @@ body{
 
 .industry .title1{
     font-weight: bold;
-    font-family: 'Noto Serif TC', serif;
+    font-family: 'Microsoft JhengHei';
     font-size: 40px;
     color: #A99479;
     letter-spacing: 2px;
@@ -198,7 +198,7 @@ img {
 
 p {
     text-align: center;
-    font-family: 'Noto Serif TC', serif;
+    font-family: 'Microsoft JhengHei';
 
 }
 
@@ -211,7 +211,7 @@ p {
 }
 .statistics .title{
     font-weight: bold;
-    font-family: 'Noto Serif TC', serif;
+    font-family: 'Microsoft JhengHei';
     font-size: 40px;
     color: #A99479;
     letter-spacing: 2px;
@@ -247,7 +247,7 @@ p {
 }
 
 .urges .textbox{
-    font-family: 'Noto Serif TC', serif;
+    font-family: 'Microsoft JhengHei';
     font-size: 20px;
     color: #f3eeea;
     letter-spacing: 2px;
