@@ -36,18 +36,20 @@ body{
 .topnav {
     background-color: #d4bfba;
     overflow: hidden;
-    padding-left: 445px;
+    text-decoration: none;
+    padding-left: 380px;
 
   }
    
   /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
+    cursor: pointer;
     color: #724e52;
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
     text-decoration: none;
     font-size: 17px;
     font-family: 'Microsoft JhengHei';
@@ -58,6 +60,15 @@ body{
   .topnav a.active {
     background-color: #d4bfba;
     color: #724e52;
+    text-decoration: none;
+    list-style-type: none;
+  }
+
+  .topnav a:hover:not(.active) {
+    background-color: #d4bfba;
+    color: #724e52;
+    text-decoration: none;
+    list-style-type: none;
   }
   
 
